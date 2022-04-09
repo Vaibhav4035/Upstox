@@ -1,0 +1,24 @@
+Class Addition{
+
+public static void main (String arge[]){
+
+int a=10, b=30, c;
+
+c= a+b;
+
+syso(c);
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+}
